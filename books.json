@@ -1,1 +1,32 @@
-[{"author": "Author One", "id": 1, "isbn": "978-5-389-07435-4", "name": "Book One"}, {"author": "Author Two", "id": 2, "isbn": "158-1-001-07682-4", "name": "Book Two"}, {"author": "Author Three", "id": 3, "isbn": "126-2-471-85476-7", "name": "Book Three"}, {"name": "new book", "author": "new author", "id": 4, "isbn": "297-3-046-00892-4"}]
+[
+    {
+        "author": "Author One",
+        "id": 1,
+        "isbn": "978-5-389-07435-4",
+        "name": "Book One"
+    },
+    {
+        "author": "Author Two",
+        "id": 2,
+        "isbn": "158-1-001-07682-4",
+        "name": "Book Two"
+    },
+    {
+        "author": "Author Three",
+        "id": 3,
+        "isbn": "126-2-471-85476-7",
+        "name": "Book Three"
+    },
+    {
+        "name": "new book two",
+        "author": "new author two",
+        "id": 4,
+        "isbn": "178-6-526-08836-3"
+    },
+    {
+        "name": "new book three",
+        "author": "new author three",
+        "id": 5,
+        "isbn": "405-6-919-09081-4"
+    }
+]
